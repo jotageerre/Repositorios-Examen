@@ -9,7 +9,7 @@ https://github.com/jotageerre/Examen-SortBy
 Repositorio Examen Nutrientes:
 https://github.com/jotageerre/Examen-Nutrientes
 
-Repositorio Examen Promoted:
+Repositorio Examen RestaurantPromoted:
 https://github.com/jotageerre/Examen-Promoted
 
 Entrega del Cuatrimestre:
