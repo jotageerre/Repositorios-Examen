@@ -12,5 +12,8 @@ https://github.com/jotageerre/Examen-Nutrientes
 Repositorio Examen RestaurantPromoted:
 https://github.com/jotageerre/Examen-Promoted
 
+Repositorio Examen Nuevas Categorias Restaurantes:
+https://github.com/jotageerre/Examen-NuevaCategoria
+
 Entrega del Cuatrimestre:
 https://github.com/jotageerre/Entrega-Cuatrimestre
