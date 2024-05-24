@@ -18,5 +18,8 @@ https://github.com/jotageerre/Examen-NuevaCategoria
 Repositorio Examen Status:
 https://github.com/jotageerre/Examen-Status
 
+Repositorio Examen Product Promoted:
+https://github.com/jotageerre/Examen-Descuento
+
 Entrega del Cuatrimestre:
 https://github.com/jotageerre/Entrega-Cuatrimestre
