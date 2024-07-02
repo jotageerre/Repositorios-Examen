@@ -29,3 +29,6 @@ https://github.com/jotageerre/Examen-Pin
 
 Examen Porcentaje:
 https://github.com/jotageerre/Examen-Porcentaje
+
+Examen Descuento:
+https://github.com/jotageerre/Examen-Descuento
